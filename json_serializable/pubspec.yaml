@@ -9,7 +9,7 @@ environment:
   sdk: '>=2.11.99 <3.0.0'
 
 dependencies:
-  analyzer: '>=0.41.2 <2.0.0'
+  analyzer: ^1.1.0
   build: ^1.6.1
   build_config: ^0.4.4
 
